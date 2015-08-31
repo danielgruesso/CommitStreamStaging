@@ -1,5 +1,5 @@
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
